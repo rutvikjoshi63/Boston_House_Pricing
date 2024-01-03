@@ -16,7 +16,7 @@ conda activate bostonhousing/
 ```
 install pip if not included in your system, then
 ```
-<!-- pip -r requirements.txt -->
+<!-- pip install -r requirements.txt -->
 conda install --file requirements.txt
 ```
 
